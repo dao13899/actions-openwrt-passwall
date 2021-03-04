@@ -6,8 +6,7 @@
 # Blog: https://p3terx.com
 #=================================================
 
-name: Build OpenWrt
-
+name: 红米AC2100
 on:
   release:
     types: [published]
